@@ -4,7 +4,7 @@ https://practical-clarke-cc46c4.netlify.app/
 
 <strong>Version movil</strong>
 
-<img src="https://github.com/flopixx/proyecto-frontend-mentor/blob/master/img/Ropa-base%20(1).png">
+<img src="https://github.com/flopixx/proyecto-frontend-mentor/blob/master/img/Ropa-base8.png">
 
 
 
